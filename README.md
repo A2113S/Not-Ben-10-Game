@@ -9,7 +9,8 @@ YouTube Link: https://www.youtube.com/watch?v=_NqtGB9wlbY
 ![LEVEL2_SS](https://user-images.githubusercontent.com/94473790/162874991-904fe62c-2f4c-4708-b353-7fc7cac08fe5.png)
 
 
-![LEVEL3_SS](https://user-images.githubusercontent.com/94473790/162874936-47a15c69-50dd-4b47-999a-67c0c1fd2596.png)
+![LEVEL3_SS](https://user-images.githubusercontent.com/94473790/162875118-5114e5c1-1c96-427d-a6e7-a28073f354f7.png)
+
 
 Bitmap Display Configuration:
 * Unit width in pixels: 8
